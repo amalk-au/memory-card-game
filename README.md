@@ -71,6 +71,8 @@ The project demonstrates frontend development concepts, including React componen
 
 ## Screenshots
 
+![game](./docs/screenshots/game.png)
+
 ## Tech Stack
 
 | Category          | Technology                |
